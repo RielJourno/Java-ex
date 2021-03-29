@@ -1,7 +1,7 @@
 /**
  * This class represents a FoodItem Object
  * 
- * @author (Ben Cohen) 
+ * @author (Riel Journo) 
  * @version (2020a)
  */
 
