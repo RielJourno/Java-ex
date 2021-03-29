@@ -1,7 +1,7 @@
 /**
  * This class represents a Date Object
  * 
- * @author (Ben Cohen) 
+ * @author (Riel Journo) 
  * @version (2020a)
  */
 
